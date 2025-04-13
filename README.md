@@ -10,6 +10,7 @@
 - Store (магазин/заказы)
 
 MindMap на ходится в файле Petsore_MindMap.png
+
 Отчет в файле Test_Results_Report.pdf
 
 ## Установка и запуск
